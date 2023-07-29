@@ -91,6 +91,8 @@ nodejs>=20.4.*
 
 ---
 
-> ### [Download 2.5](https://gitgud.io/ahsk/clewd/-/archive/2.5/clewd-2.5.zip)
+## Downloads
 
-> ### [Latest version](https://gitgud.io/ahsk/clewd/)
+> ### [Download latest version](https://gitgud.io/ahsk/clewd/)
+
+> ### [Download 2.5](https://gitgud.io/ahsk/clewd/-/archive/2.5/clewd-2.5.zip)
