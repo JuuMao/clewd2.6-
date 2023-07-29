@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://gitgud.io/ahsk/clewd/">
-<h1>Clewd</h1>
+<a href="https://gitgud.io/ahsk/clewd/-/tree/2.5">
+<h1>Clewd 2.5</h1>
   <img
     height="120"
     width="120"
@@ -20,8 +20,8 @@ Warning: Some accounts are getting _hard-blacklisted_ by the **rats**, you might
 <br>
 <br>
 <hr>
-<a href="https://gitgud.io/ahsk/clewd/-/archive/master/clewd-master.zip">
-   <img src="https://gitgud.io/ahsk/clewd/-/raw/master/program.png">
+<a href="https://gitgud.io/ahsk/clewd/-/archive/2.5/clewd-2.5.zip">
+   <img src="https://gitgud.io/ahsk/clewd/-/raw/2.5/program.png">
 </a>
 <hr>
 
@@ -91,7 +91,6 @@ nodejs>=20.4.*
 
 ---
 
-> ### [Download latest version](https://gitgud.io/ahsk/clewd/-/archive/master/clewd-master.zip)
+> ### [Download 2.5](https://gitgud.io/ahsk/clewd/-/archive/2.5/clewd-2.5.zip)
 
-
-> ### [Download old version](https://gitgud.io/ahsk/clewd/-/archive/1.6/clewd-1.6.zip)
+> ### [Download 1.6](https://gitgud.io/ahsk/clewd/-/archive/1.6/clewd-1.6.zip)
